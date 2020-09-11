@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Plant-Classification</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture">Capture Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="btn_recognize_text">Capture Image</string>
+    <string name="result_no_hero_found">Not a Crop</string>
+    <string name="result_confident_hero_found">This is surely %1$s.</string>
+    <string name="result_think_hero_found">I think I see %1$s.</string>
+    <string name="result_maybe_hero_found">Hmm, is this %1$s?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_address_found">address not found</string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalid lat long used</string>
+    <string name="address_found">address found</string>
+</resources>
